@@ -76,6 +76,22 @@ export const NavLink = styled.a`
         color: var(--color-first);
     }
 
+    
+    position: ${props => (props.tag ? "relative" : "")};
+
+    &::before {
+        content: '${props => (props.tag ? "experimente de graça" : "")}';
+        color: ${props => (props.tag ? "var(--color-first)" : "")};
+        font-size: ${props => (props.tag ? "9px" : "")};
+        position: ${props => (props.tag ? "absolute" : "")};;
+        font-weight: ${props => (props.tag ? "lighter" : "")};;
+        text-transform: ${props => (props.tag ? "uppercase" : "")};;
+        top: ${props => (props.tag ? "-8px" : "")};
+        left: ${props => (props.tag ? "25px" : "")};
+        min-width: ${props => (props.tag ? "200px" : "")};;
+    }
+    
+
     `;
 
 export const FormSearch = styled.form`

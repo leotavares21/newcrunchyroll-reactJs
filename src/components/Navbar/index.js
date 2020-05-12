@@ -3,7 +3,6 @@ import React, { useState, useRef } from 'react';
 
 import {Container, NavLogo, Navigation, NavList, NavItem, NavLink, FormSearch, Login}  from './styles';
 
-import './exception.css';
 
 export default function Navbar(){
 
@@ -51,7 +50,7 @@ export default function Navbar(){
                             </NavItem>
 
                             <NavItem>
-                                <NavLink className="textBefore">Premium</NavLink>
+                                <NavLink tag>Premium</NavLink>
                             </NavItem>
 
                             <button onClick={onOpenMenu}>
