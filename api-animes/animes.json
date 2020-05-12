@@ -1,0 +1,386 @@
+{
+    "animesPop": [
+        {
+            "id": 1,
+            "name": "Demons slayer",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 14,
+            "description": "Anime Demons slayer lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "26",
+            "gender": ["Ação", "Aventura", "Monstro"]
+        },
+        {
+            "id": 2,
+            "name": "Doctor stone",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 12,
+            "description": "Anime Doctor stone lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 3,
+            "name": "One-Punch-Man",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 14,
+            "description": "One-Punch-Man storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 4,
+            "name": "Sword art online",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 12,
+            "description": "Sword art online storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "48",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 5,
+            "name": "Voleball whorever",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 10,
+            "description": "Voleball whorever storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 6,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 7,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 8,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 9,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 10,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 11,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 12,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 13,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 14,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 15,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 16,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 17,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 18,
+            "name": "Dororo",
+            "image": "image/imageAnime/img2.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        }
+    ],
+    "animesTrend": [
+        {
+            "id": 1,
+            "name": "Demons slayer",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 14,
+            "description": "Anime Demons slayer lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "26",
+            "gender": ["Ação", "Aventura", "Monstro"]
+        },
+        {
+            "id": 2,
+            "name": "Doctor stone",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 12,
+            "description": "Anime Doctor stone lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 3,
+            "name": "One-Punch-Man",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 14,
+            "description": "One-Punch-Man storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 4,
+            "name": "Sword art online",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 12,
+            "description": "Sword art online storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "48",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 5,
+            "name": "Voleball whorever",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 10,
+            "description": "Voleball whorever storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 6,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 7,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 8,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 9,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 10,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 11,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 12,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 13,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 14,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 15,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 16,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 17,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 18,
+            "name": "Dororo",
+            "image": "image/imageAnime/img3.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        }
+    ],
+    "animesNew": [
+        {
+            "id": 1,
+            "name": "Demons slayer",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 14,
+            "description": "Anime Demons slayer lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "26",
+            "gender": ["Ação", "Aventura", "Monstro"]
+        },
+        {
+            "id": 2,
+            "name": "Doctor stone",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 12,
+            "description": "Anime Doctor stone lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 3,
+            "name": "One-Punch-Man",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 14,
+            "description": "One-Punch-Man storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 4,
+            "name": "Sword art online",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 12,
+            "description": "Sword art online storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "48",
+            "gender": ["Ação", "Aventura", "Shonem"]
+        },
+        {
+            "id": 5,
+            "name": "Haikkyu",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 10,
+            "description": "Voleball whorever storm lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        },
+        {
+            "id": 6,
+            "name": "Dororo",
+            "image": "image/imageAnime/img1.jpg",
+            "age": 16,
+            "description": "Dororo traz pa nózx crunchyroll lorem lorem lorem lorem lorem lorem lorem lorem lorem ",
+            "episodes": "24",
+            "gender": ["Esporte", "Aventura", "Shonem"]
+        }
+    ]
+}
